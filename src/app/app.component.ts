@@ -17,7 +17,7 @@ export interface Item {
   standalone: true,
   imports: [RouterOutlet, AsyncPipe],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.css'
 })
 export class AppComponent {
   title = 'angular-17-ngrx';
