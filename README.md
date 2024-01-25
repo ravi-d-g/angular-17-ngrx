@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# angular-17-ngrx"
 
 ng build --configuration production --base-href="<https://ravi-d-g.github.io/angular-17-ngrx/>"
+
+test 🔗
